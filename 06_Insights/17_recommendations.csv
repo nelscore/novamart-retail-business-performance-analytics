@@ -1,0 +1,8 @@
+﻿Horizon,Timing,Action,Rationale,Expected Business Value
+Immediate,0–3 months,Review loss-making products,"Investigate pricing, discount, mix and fulfillment economics.",Reduce margin leakage.
+Immediate,0–3 months,Tighten discount governance,Set category/product guardrails using observed margin trade-offs.,Protect profitability.
+Immediate,0–3 months,Monitor concentrated products/customers,Track top contributors and dependency over time.,Protect revenue and reduce concentration risk.
+Medium-term,3–6 months,Regional margin diagnostic,Compare weak regions with stronger regions by mix and discount.,Find actionable root causes.
+Medium-term,3–6 months,Target customer retention,Use repeat behavior and RFM segments for targeted engagement.,Increase customer value.
+Long-term,6–12 months,Integrate returns,Add actual returns keyed to orders/products.,Enable return-rate and impact analytics.
+Long-term,6–12 months,Experiment with promotions,Use randomized or matched tests.,"Measure incremental profit, not just correlation."

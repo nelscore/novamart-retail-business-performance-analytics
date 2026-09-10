@@ -1,0 +1,12 @@
+﻿Theme,Observation,Evidence,Interpretation,Recommendation
+Revenue scale,"$2,297,201 revenue across 5,009 orders and 793 customers.","$2,297,200.86; 5,009; 793.",Overall commercial scale baseline.,Use as baseline for management reporting.
+Overall profitability,"$286,397 profit at 12.5% margin.","$286,397.02; 12.47%.",Sales scale needs to be evaluated alongside profitability.,Prioritize profitable growth.
+Category revenue leader,Technology leads revenue.,"$836,154 (36.4%).",Largest commercial contributor.,Protect availability and review economics.
+Category profit leader,Technology leads total profit.,"$145,455 (17.4% margin).",Profit ranking differs from sales ranking.,Allocate attention using profit as well as sales.
+Weakest category margin,Furniture has the lowest category margin.,2.5%.,Potential margin pressure.,"Review product mix, pricing and discounting."
+Regional contrast,West leads revenue; Central has the weakest margin.,"$725,458; 7.9%.",Regional scale and economics differ.,Investigate mix and discount patterns.
+Product concentration,Top 20 products represent 16.9% of revenue.,16.9%.,Meaningful dependence on a small product set.,Monitor availability and margin of high-contribution products.
+Customer concentration,Top 20 customers represent 11.5% of revenue.,11.5%.,High-value customers create value and concentration risk.,Protect key relationships and broaden repeat base.
+Loss-making products,306 products are loss-making in aggregate.,"306 of 1,894 products.",Some product economics are structurally weak.,"Review pricing, discounts and fulfillment economics."
+Discount association,0% is the highest-profit observed discount band.,"$320,988 profit; 29.5% margin.",Discount bands have different economics; this is descriptive.,Use controlled tests to establish causal lift.
+Returns limitation,Return KPIs are not calculable from the supplied source.,No return fields are present.,Do not fabricate return analysis.,Integrate actual returns data in production.
