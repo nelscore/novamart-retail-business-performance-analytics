@@ -1,0 +1,16 @@
+﻿KPI,Definition,Business Meaning,Layer
+Total Revenue,SUM(Sales),Recorded sales value,Executive
+Total Profit,SUM(Profit),Recorded profit,Executive
+Profit Margin %,Profit / Revenue,Profitability efficiency,Executive
+Orders,Distinct Order ID,Unique orders,Executive
+Units Sold,SUM(Quantity),Sales volume,Executive
+Customers,Distinct Customer ID,Unique purchasing customers,Executive
+AOV,Revenue / Orders,Average revenue per order,Executive
+Average Discount,AVERAGE(Discount),Mean line-level discount,Executive
+Repeat Purchase Rate,Customers with >=2 orders / customers,Repeat customer share,Customer
+Revenue per Customer,Revenue / Customers,Average revenue per purchasing customer,Customer
+YoY Revenue Growth,Current / prior - 1,Annual growth,Growth
+YoY Profit Growth,Current / prior - 1,Annual profit growth,Growth
+Product Margin %,Product Profit / Product Revenue,Product profitability,Product
+Revenue Contribution %,Entity Revenue / Total Revenue,Revenue share,Concentration
+Cumulative Revenue %,Cumulative ranked revenue / Total Revenue,Pareto concentration,Advanced

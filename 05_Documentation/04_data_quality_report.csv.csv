@@ -1,0 +1,14 @@
+﻿Check,Issue Count,Action,Result,Status
+Row count,9994,Validate source size,9994,PASS
+Column count,21,Validate source schema,21,PASS
+Missing values,0,No imputation required,0,PASS
+Duplicate full rows,0,No full-row duplicates removed,0,PASS
+Invalid Order Date,0,Parse and validate,0,PASS
+Ship date before order date,0,Chronology check,0,PASS
+Non-positive Quantity,0,Investigate invalid quantity,0,PASS
+Negative Sales,0,Investigate invalid sales,0,PASS
+Discount outside 0-100%,0,Validate bounds,0,PASS
+Negative Profit,1871,Retain; economically meaningful,1871,INFO
+Duplicate Order IDs,4985,Retain; line-item grain,4985,INFO
+Duplicate Customer IDs,9201,Retain; repeated purchases,9201,INFO
+Duplicate Product IDs,8132,Retain; repeated sales,8132,INFO

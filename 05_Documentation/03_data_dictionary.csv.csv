@@ -1,0 +1,34 @@
+﻿Field,Classification,Data Type,Business Meaning,Analytical Use
+Row ID,Source,Integer,Unique source row identifier,Line grain
+Order ID,Source,Text,Order identifier,Order-level grouping
+Order Date,Source,Date,Order date,Time analysis
+Ship Date,Source,Date,Ship date,Fulfillment
+Ship Mode,Source,Text,Shipping service,Fulfillment
+Customer ID,Source,Text,Customer identifier,Customer analysis
+Customer Name,Source,Text,Customer name,Customer analysis
+Segment,Source,Text,Customer segment,Segmentation
+Country,Source,Text,Country,Geography
+City,Source,Text,City,Geography
+State,Source,Text,State,Geography
+Postal Code,Source,Integer,Postal code,Geography
+Region,Source,Text,US region,Regional analysis
+Product ID,Source,Text,Product identifier,Product analysis
+Category,Source,Text,Category,Category analysis
+Sub-Category,Source,Text,Subcategory,Subcategory analysis
+Product Name,Source,Text,Product name,Product analysis
+Sales,Source,Decimal,Recorded sales value,Revenue
+Quantity,Source,Integer,Units sold,Volume
+Discount,Source,Decimal,Discount rate,Discount
+Profit,Source,Decimal,Recorded profit,Profitability
+Profit Margin %,Calculated,Decimal %,Profit / Sales,Margin
+Estimated Cost,Derived,Decimal,Sales - Profit; not source cost,Accounting identity
+Order Year,Calculated,Integer,Year from Order Date,Trend
+Order Quarter,Calculated,Text,Quarter from Order Date,Trend
+Order Month,Calculated,Text,Month label,Trend
+Month Number,Calculated,Integer,Month number,Sorting
+Year-Month,Calculated,Text,Year-month period,Trend
+Order Week,Calculated,Integer,ISO week,Trend
+Day,Calculated,Integer,Day of month,Date analysis
+Day of Week,Calculated,Text,Weekday,Date analysis
+Ship Days,Calculated,Integer,Ship Date - Order Date,Fulfillment
+Discount Band,Calculated,Text,Observed discount band,Discount
